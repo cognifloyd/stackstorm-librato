@@ -1,6 +1,6 @@
 ---
 name: submit_gauge
-runner_type: run-python
+runner_type: python-script
 description: List all metrics setup on Librato
 enabled: true
 entry_point: submit_gauge.py

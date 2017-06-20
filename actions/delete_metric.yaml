@@ -1,6 +1,6 @@
 ---
 name: delete_metric
-runner_type: run-python
+runner_type: python-script
 description: Delete a metric from Librato
 enabled: true
 entry_point: delete_metric.py

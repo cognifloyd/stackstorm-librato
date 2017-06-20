@@ -1,6 +1,6 @@
 ---
 name: add_annotation
-runner_type: run-python
+runner_type: python-script
 description: Add an annotation
 enabled: true
 entry_point: add_annotation.py
