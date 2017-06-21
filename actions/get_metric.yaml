@@ -1,6 +1,6 @@
 ---
 name: get_metric
-runner_type: run-python
+runner_type: python-script
 description: Retrieve a metric from Librato
 enabled: true
 entry_point: get_metric.py
