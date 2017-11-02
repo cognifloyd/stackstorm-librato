@@ -1,4 +1,4 @@
-from st2actions.runners.pythonrunner import Action
+from st2common.runners.base_action import Action
 
 # https://github.com/librato/python-librato
 import librato
